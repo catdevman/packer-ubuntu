@@ -1,0 +1,6 @@
+{
+  "esxi_host": "<hostname or ip>",
+  "esxi_datastore": "<datastore name>",
+  "esxi_username": "<username>",
+  "esxi_password": "<password>"
+}
